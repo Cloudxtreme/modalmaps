@@ -1,0 +1,5 @@
+# Enable restclient-mode
+:app = http://localhost:3000
+
+# GET app
+GET :app
